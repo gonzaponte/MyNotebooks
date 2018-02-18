@@ -1,0 +1,5 @@
+cd /Users/Gonzalo/github/MyNotebooks
+cp Kr_selection.ipynb            ../ICARO/icaro/analysis/Kr/
+cp Kr_lifetime_map_builder.ipynb ../ICARO/icaro/analysis/Kr/
+cp Kr_geometry_map_builder.ipynb ../ICARO/icaro/analysis/Kr/
+cp Kr_plots.ipynb                ../ICARO/icaro/analysis/Kr/
